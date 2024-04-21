@@ -1,3 +1,6 @@
 # ignore objects in the rom folder
 rom/*
 RLProject/*
+envTrain/*
+envOpt/*
+envLogs/*
