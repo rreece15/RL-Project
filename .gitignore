@@ -4,3 +4,6 @@ RLProject/*
 envTrain/*
 envOpt/*
 envLogs/*
+data/*
+opt/QRDQN
+train/QRDQN
