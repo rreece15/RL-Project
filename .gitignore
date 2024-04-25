@@ -7,3 +7,4 @@ envLogs/*
 data/*
 opt/QRDQN
 train/QRDQN
+DQNIanEnv.ipynb
