@@ -1,10 +1,5 @@
 # ignore objects in the rom folder
 rom/*
 RLProject/*
-envTrain/*
-envOpt/*
-envLogs/*
 data/*
-opt/QRDQN
-train/QRDQN
 DQNIanEnv.ipynb
