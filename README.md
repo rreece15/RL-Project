@@ -6,7 +6,7 @@ Corresponding to the growth of reinforcement learning, the field has blossomed i
 
 Presentation Link: https://youtu.be/7D2RxDPWJ_8
 
-Other Model Results: https://youtu.be/uqJQnNCKViQ
+Other Model Results: https://youtu.be/R3sgaCNlHRg
 
 ## Instructions
 
