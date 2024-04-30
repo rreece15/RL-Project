@@ -4,7 +4,7 @@ RLProject/*
 envTrain/*
 envOpt/*
 envLogs/*
-data/DQN/Vids/*
+data/Vids/*
 opt/QRDQN
 train/QRDQN
 DQNIanEnv.ipynb
